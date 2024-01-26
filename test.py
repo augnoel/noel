@@ -1,2 +1,2 @@
-python file
+#python file
 print("Hi!")
